@@ -152,5 +152,3 @@ class Tela:
                 janela1.hide()
                 janela2 = Tela.Descriptografar()
 Tela.Home()
-#var = sg.Text.fonts_installed_list()
-#print (var)
